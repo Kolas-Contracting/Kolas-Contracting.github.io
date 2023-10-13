@@ -26,3 +26,4 @@ dist-ssr
 .cache
 public
 src/gatsby-types.d.ts
+.vscode
