@@ -13343,6 +13343,8 @@ textarea.form-control-lg {
   --cnvs-color-salesforce:	#1798c1;
   --cnvs-color-cloudflare:	#f38020;
   --cnvs-color-linkedin:	#0e76a8;
+  --cnvs-color-angi:  #e96250;
+  --cnvs-color-houzz: #73ba37;
   --cnvs-color-vk:	#2b587a;
   --cnvs-color-rss:	#ee802f;
   --cnvs-color-skype:	#00aff0;
@@ -24952,6 +24954,16 @@ td.actions {
 .bg-linkedin,
 .h-bg-linkedin:hover {
   background-color: var(--cnvs-color-linkedin) !important;
+}
+
+.bg-angi,
+.h-bg-angi:hover {
+  background-color: var(--cnvs-color-angi) !important;
+}
+
+.bg-houzz,
+.h-bg-houzz:hover {
+  background-color: var(--cnvs-color-houzz) !important;
 }
 
 .bg-vk,
